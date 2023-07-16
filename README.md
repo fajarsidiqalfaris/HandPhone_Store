@@ -1,11 +1,11 @@
 Home / Konten
 
-![alt text](https://github.com/Dawelly/HondabikeTV/blob/master/kontensatu.png)
+![alt text](https://github.com/fajarsidiqalfaris/HandPhone_Store/blob/master/kontensatu.png)
 
 Home / Konten
 
-![alt text](https://github.com/Dawelly/HondabikeTV/blob/master/kontendua.png)
+![alt text](https://github.com/fajarsidiqalfaris/HandPhone_Store/blob/master/kontendua.png)
 
 Isi konten / Deskripsi
 
-![alt text](https://github.com/Dawelly/HondabikeTV/blob/master/deskripsi.png)
+![alt text](https://github.com/fajarsidiqalfaris/HandPhone_Store/blob/master/deskripsi.png)
